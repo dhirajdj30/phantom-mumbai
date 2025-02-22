@@ -1,0 +1,8 @@
+fitz
+langchain
+flask
+groq
+pymupdf 
+faiss-cpu 
+sentence-transformers 
+langchain-community
